@@ -18,3 +18,6 @@
    cd kl4-bootloader-unlock
    chmod +x unlock_bootloader.sh
    ./unlock_bootloader.sh
+## Need Help?
+contact me on my telegram for help
+t.me/JamesTechGuy
