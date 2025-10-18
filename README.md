@@ -20,4 +20,4 @@
    ./unlock_bootloader.sh
 ## Need Help?
 contact me on my telegram for help
-t.me/JamesTechGuy
+https://t.me/JamesTechGuy
